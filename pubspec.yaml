@@ -1,7 +1,7 @@
 name: super_localizations
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/abdullahAlwajih/Super-Localizations.git
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
