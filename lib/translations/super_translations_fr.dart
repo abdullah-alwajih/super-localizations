@@ -4,8 +4,8 @@ import 'package:intl/intl.dart' as intl;
 import 'super_translations.dart';
 
 /// The translations for French (`fr`).
-class SuperLocalizationsFr extends SuperLocalizations {
-  SuperLocalizationsFr([String locale = 'fr']) : super(locale);
+class SuperTranslationsFr extends SuperTranslations {
+  SuperTranslationsFr([String locale = 'fr']) : super(locale);
 
   @override
   String get appAbout => 'Sur';

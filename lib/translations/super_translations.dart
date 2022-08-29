@@ -1,5 +1,4 @@
 
-
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
@@ -11,12 +10,10 @@ import 'super_translations_ar.dart';
 import 'super_translations_en.dart';
 import 'super_translations_fr.dart';
 
-
-
-/// Callers can lookup localized strings with an instance of SuperLocalizations returned
-/// by `SuperLocalizations.of(context)`.
+/// Callers can lookup localized strings with an instance of SuperTranslations returned
+/// by `SuperTranslations.of(context)`.
 ///
-/// Applications need to include `SuperLocalizations.delegate()` in their app's
+/// Applications need to include `SuperTranslations.delegate()` in their app's
 /// localizationDelegates list, and the locales they support in the app's
 /// supportedLocales list. For example:
 ///
@@ -24,8 +21,8 @@ import 'super_translations_fr.dart';
 /// import 'translations/super_translations.dart';
 ///
 /// return MaterialApp(
-///   localizationsDelegates: SuperLocalizations.localizationsDelegates,
-///   supportedLocales: SuperLocalizations.supportedLocales,
+///   localizationsDelegates: SuperTranslations.localizationsDelegates,
+///   supportedLocales: SuperTranslations.supportedLocales,
 ///   home: MyApplicationHome(),
 /// );
 /// ```
@@ -62,18 +59,18 @@ import 'super_translations_fr.dart';
 /// Select and expand the newly-created Localizations item then, for each
 /// locale your application supports, add a new item and select the locale
 /// you wish to add from the pop-up menu in the Value field. This list should
-/// be consistent with the languages listed in the SuperLocalizations.supportedLocales
+/// be consistent with the languages listed in the SuperTranslations.supportedLocales
 /// property.
-abstract class SuperLocalizations {
-  SuperLocalizations(String locale) : localeName = intl.Intl.canonicalizedLocale(locale.toString());
+abstract class SuperTranslations {
+  SuperTranslations(String locale) : localeName = intl.Intl.canonicalizedLocale(locale.toString());
 
   final String localeName;
 
-  static SuperLocalizations? of(BuildContext context) {
-    return Localizations.of<SuperLocalizations>(context, SuperLocalizations);
+  static SuperTranslations? of(BuildContext context) {
+    return Localizations.of<SuperTranslations>(context, SuperTranslations);
   }
 
-  static const LocalizationsDelegate<SuperLocalizations> delegate = _SuperLocalizationsDelegate();
+  static const LocalizationsDelegate<SuperTranslations> delegate = _SuperTranslationsDelegate();
 
   /// A list of this localizations delegate along with the default localizations
   /// delegates.
@@ -5110,33 +5107,33 @@ abstract class SuperLocalizations {
   String validWrongLength(String attribute, num count);
 }
 
-class _SuperLocalizationsDelegate extends LocalizationsDelegate<SuperLocalizations> {
-  const _SuperLocalizationsDelegate();
+class _SuperTranslationsDelegate extends LocalizationsDelegate<SuperTranslations> {
+  const _SuperTranslationsDelegate();
 
   @override
-  Future<SuperLocalizations> load(Locale locale) {
-    return SynchronousFuture<SuperLocalizations>(lookupSuperLocalizations(locale));
+  Future<SuperTranslations> load(Locale locale) {
+    return SynchronousFuture<SuperTranslations>(lookupSuperTranslations(locale));
   }
 
   @override
   bool isSupported(Locale locale) => <String>['ar', 'en', 'fr'].contains(locale.languageCode);
 
   @override
-  bool shouldReload(_SuperLocalizationsDelegate old) => false;
+  bool shouldReload(_SuperTranslationsDelegate old) => false;
 }
 
-SuperLocalizations lookupSuperLocalizations(Locale locale) {
+SuperTranslations lookupSuperTranslations(Locale locale) {
 
 
   // Lookup logic when only language code is specified.
   switch (locale.languageCode) {
-    case 'ar': return SuperLocalizationsAr();
-    case 'en': return SuperLocalizationsEn();
-    case 'fr': return SuperLocalizationsFr();
+    case 'ar': return SuperTranslationsAr();
+    case 'en': return SuperTranslationsEn();
+    case 'fr': return SuperTranslationsFr();
   }
 
   throw FlutterError(
-    'SuperLocalizations.delegate failed to load unsupported locale "$locale". This is likely '
+    'SuperTranslations.delegate failed to load unsupported locale "$locale". This is likely '
     'an issue with the localizations generation tool. Please file an issue '
     'on GitHub with a reproducible sample app and the gen-l10n configuration '
     'that was used.'

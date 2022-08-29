@@ -4,8 +4,8 @@ import 'package:intl/intl.dart' as intl;
 import 'super_translations.dart';
 
 /// The translations for English (`en`).
-class SuperLocalizationsEn extends SuperLocalizations {
-  SuperLocalizationsEn([String locale = 'en']) : super(locale);
+class SuperTranslationsEn extends SuperTranslations {
+  SuperTranslationsEn([String locale = 'en']) : super(locale);
 
   @override
   String get appAbout => 'About';
