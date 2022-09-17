@@ -1,6 +1,6 @@
 arb-dir: lib/languages
 template-arb-file: language_en.arb
 output-dir: lib/translations
-output-localization-file: super_translations.dart
-output-class: SuperTranslations
+output-localization-file: super_localizations.dart
+output-class: SuperLocalizations
 synthetic-package: false

@@ -1,4 +1,3 @@
-
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
@@ -6,23 +5,23 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/intl.dart' as intl;
 
-import 'super_translations_ar.dart';
-import 'super_translations_en.dart';
-import 'super_translations_fr.dart';
+import 'super_localizations_ar.dart';
+import 'super_localizations_en.dart';
+import 'super_localizations_fr.dart';
 
-/// Callers can lookup localized strings with an instance of SuperTranslations returned
-/// by `SuperTranslations.of(context)`.
+/// Callers can lookup localized strings with an instance of SuperLocalizations
+/// returned by `SuperLocalizations.of(context)`.
 ///
-/// Applications need to include `SuperTranslations.delegate()` in their app's
-/// localizationDelegates list, and the locales they support in the app's
-/// supportedLocales list. For example:
+/// Applications need to include `SuperLocalizations.delegate()` in their app's
+/// `localizationDelegates` list, and the locales they support in the app's
+/// `supportedLocales` list. For example:
 ///
-/// ```
-/// import 'translations/super_translations.dart';
+/// ```dart
+/// import 'translations/super_localizations.dart';
 ///
 /// return MaterialApp(
-///   localizationsDelegates: SuperTranslations.localizationsDelegates,
-///   supportedLocales: SuperTranslations.supportedLocales,
+///   localizationsDelegates: SuperLocalizations.localizationsDelegates,
+///   supportedLocales: SuperLocalizations.supportedLocales,
 ///   home: MyApplicationHome(),
 /// );
 /// ```
@@ -32,14 +31,14 @@ import 'super_translations_fr.dart';
 /// Please make sure to update your pubspec.yaml to include the following
 /// packages:
 ///
-/// ```
+/// ```yaml
 /// dependencies:
 ///   # Internationalization support.
 ///   flutter_localizations:
 ///     sdk: flutter
 ///   intl: any # Use the pinned version from flutter_localizations
 ///
-///   # rest of dependencies
+///   # Rest of dependencies
 /// ```
 ///
 /// ## iOS Applications
@@ -59,18 +58,18 @@ import 'super_translations_fr.dart';
 /// Select and expand the newly-created Localizations item then, for each
 /// locale your application supports, add a new item and select the locale
 /// you wish to add from the pop-up menu in the Value field. This list should
-/// be consistent with the languages listed in the SuperTranslations.supportedLocales
+/// be consistent with the languages listed in the SuperLocalizations.supportedLocales
 /// property.
-abstract class SuperTranslations {
-  SuperTranslations(String locale) : localeName = intl.Intl.canonicalizedLocale(locale.toString());
+abstract class SuperLocalizations {
+  SuperLocalizations(String locale) : localeName = intl.Intl.canonicalizedLocale(locale.toString());
 
   final String localeName;
 
-  static SuperTranslations? of(BuildContext context) {
-    return Localizations.of<SuperTranslations>(context, SuperTranslations);
+  static SuperLocalizations? of(BuildContext context) {
+    return Localizations.of<SuperLocalizations>(context, SuperLocalizations);
   }
 
-  static const LocalizationsDelegate<SuperTranslations> delegate = _SuperTranslationsDelegate();
+  static const LocalizationsDelegate<SuperLocalizations> delegate = _SuperLocalizationsDelegate();
 
   /// A list of this localizations delegate along with the default localizations
   /// delegates.
@@ -5107,33 +5106,33 @@ abstract class SuperTranslations {
   String validWrongLength(String attribute, num count);
 }
 
-class _SuperTranslationsDelegate extends LocalizationsDelegate<SuperTranslations> {
-  const _SuperTranslationsDelegate();
+class _SuperLocalizationsDelegate extends LocalizationsDelegate<SuperLocalizations> {
+  const _SuperLocalizationsDelegate();
 
   @override
-  Future<SuperTranslations> load(Locale locale) {
-    return SynchronousFuture<SuperTranslations>(lookupSuperTranslations(locale));
+  Future<SuperLocalizations> load(Locale locale) {
+    return SynchronousFuture<SuperLocalizations>(lookupSuperLocalizations(locale));
   }
 
   @override
   bool isSupported(Locale locale) => <String>['ar', 'en', 'fr'].contains(locale.languageCode);
 
   @override
-  bool shouldReload(_SuperTranslationsDelegate old) => false;
+  bool shouldReload(_SuperLocalizationsDelegate old) => false;
 }
 
-SuperTranslations lookupSuperTranslations(Locale locale) {
+SuperLocalizations lookupSuperLocalizations(Locale locale) {
 
 
   // Lookup logic when only language code is specified.
   switch (locale.languageCode) {
-    case 'ar': return SuperTranslationsAr();
-    case 'en': return SuperTranslationsEn();
-    case 'fr': return SuperTranslationsFr();
+    case 'ar': return SuperLocalizationsAr();
+    case 'en': return SuperLocalizationsEn();
+    case 'fr': return SuperLocalizationsFr();
   }
 
   throw FlutterError(
-    'SuperTranslations.delegate failed to load unsupported locale "$locale". This is likely '
+    'SuperLocalizations.delegate failed to load unsupported locale "$locale". This is likely '
     'an issue with the localizations generation tool. Please file an issue '
     'on GitHub with a reproducible sample app and the gen-l10n configuration '
     'that was used.'

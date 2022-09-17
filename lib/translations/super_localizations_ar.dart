@@ -1,11 +1,10 @@
-
-
 import 'package:intl/intl.dart' as intl;
-import 'super_translations.dart';
+
+import 'super_localizations.dart';
 
 /// The translations for Arabic (`ar`).
-class SuperTranslationsAr extends SuperTranslations {
-  SuperTranslationsAr([String locale = 'ar']) : super(locale);
+class SuperLocalizationsAr extends SuperLocalizations {
+  SuperLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
   String get appAbout => 'حول';
