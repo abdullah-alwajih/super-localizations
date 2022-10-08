@@ -2029,25 +2029,25 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopNoMoreReviews => 'لا يوجد مراجعات أخرى';
 
   @override
-  String get shopNoMoreShops => 'لا يوجد متاجر أخرى';
+  String get shopNoMoreShops => 'لا توجد متاجر أخرى';
 
   @override
-  String get shopNoNewArrivals => 'لا يوجد منتجات وصلت حديثاً';
+  String get shopNoNewArrivals => 'لا توجد منتجات وصلت حديثاً';
 
   @override
-  String get shopNoProductsAreAvailable => 'لا يوجد منتجات';
+  String get shopNoProductsAreAvailable => 'لا توجد منتجات';
 
   @override
-  String get shopNoRelatedProducts => 'لا يوجد منتجات مشابهة';
+  String get shopNoRelatedProducts => 'لا توجد منتجات مشابهة';
 
   @override
-  String get shopNoReviews => 'لا يوجد تعليقات';
+  String get shopNoReviews => 'لا توجد تعليقات';
 
   @override
-  String get shopNoShopsAreAvailable => 'لا يوجد متاجر';
+  String get shopNoShopsAreAvailable => 'لا توجد متاجر';
 
   @override
-  String get shopNoTopSellingProductsFromThisSeller => 'لا يوجد منتجات مفضلة لهذا التاجر';
+  String get shopNoTopSellingProductsFromThisSeller => 'لا توجد منتجات مفضلة لهذا التاجر';
 
   @override
   String get shopNotDeliverable => 'غير قابل للتسليم';
