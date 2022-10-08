@@ -14,7 +14,6 @@ abstract class SuperTranslations {
 
   final String localeName;
 
-
   static SuperLocalizations get of => Localizations.of<SuperLocalizations>(
       navigatorKey.currentState!.context, SuperLocalizations)!;
 }

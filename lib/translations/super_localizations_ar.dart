@@ -10,7 +10,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get appAbout => 'حول';
 
   @override
-  String get authSendOTP => 'ارسال رمز التحقق';
+  String get authSendOTP => 'إرسال رمز التحقق';
 
   @override
   String get authPleaseFillInTheField => 'الرجاء ملء الحقل';
@@ -64,7 +64,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get appSoPleaseUpdateToTheNewVersion => 'لذا يرجى التحديث إلى الإصدار الجديد';
 
   @override
-  String get appTapAgainToLeave => 'اضغط مرة اخرى للمغادرة';
+  String get appTapAgainToLeave => 'أضغط مرة أخرى للمغادرة';
 
   @override
   String get appToUseThisAppPleaseUpdateToTheLatestVersion => 'لاستخدام هذا التطبيق، يرجى تنزيل أحدث إصدار.';
@@ -73,19 +73,19 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get appUpdate => 'تحديث';
 
   @override
-  String get appUpdateNow => 'التحديث الان';
+  String get appUpdateNow => 'التحديث الآن';
 
   @override
   String get appVersion => 'الإصدار';
 
   @override
-  String get appWeArePleasedThatYouUseOurApplicationAndWeHopeThatYouWillHaveFunBrowsing => 'يسعدنا إستخدامك لتطبيقنا ونتمنى أن تستمتع بالتصفح';
+  String get appWeArePleasedThatYouUseOurApplicationAndWeHopeThatYouWillHaveFunBrowsing => 'يسعدنا استخدامك لتطبيقنا ونتمنى أن تستمتع بالتصفح';
 
   @override
   String get appWeAreWorkingHardToComeUpWithNewServices => 'نحن نعمل بجد لتقديم خدمات جديدة';
 
   @override
-  String get appWeAreWorkingHardToComeUpWithNewServicesSoPleaseUpdateTheNewVersion => 'نحن نعمل بكل جد لنوفر خدمات جديدة لذا نرجو أن تقوم بالتحديث للنسخة الجديدة';
+  String get appWeAreWorkingHardToComeUpWithNewServicesSoPleaseUpdateTheNewVersion => 'نحن نعمل بكل جد لنوفر خدمات جديدة لذا الرجاء أن تقوم بالتحديث للنسخة الجديدة';
 
   @override
   String get authAccount => 'الحساب';
@@ -115,19 +115,19 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authArea => 'المنطقة';
 
   @override
-  String get authAddressesOfUser => 'عناوين المستخدم';
+  String get authAddressesOfUser => 'عنأوين المستخدم';
 
   @override
   String get authAge => 'العمر';
 
   @override
-  String get authAlreadyHaveAnAccount => 'هل تملك حساب مسبقا؟';
+  String get authAlreadyHaveAnAccount => 'هل تملك حساب مسبقاًً؟';
 
   @override
   String get authAlternativePhone => 'رقم الهاتف البديل';
 
   @override
-  String get authAnErrorOccurredPleaseTryAgain => 'حدث خطأ ما، الرجاء المحاولة مجددا';
+  String get authAnErrorOccurredPleaseTryAgain => 'حدث خطأ ما، الرجاء المحأولة مجدداًً';
 
   @override
   String get authAreYouSureToRemoveThisAddress => 'هل أنت متأكد من حذف العنوان';
@@ -136,7 +136,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authAreYouSureYouWantToLogout => 'هل أنت متأكد من تسجيل الخروج';
 
   @override
-  String get authByUsingTheApplicationAndLoggingInYouAgreeTo => 'بإستخدام التطبيق و تسجيل دخولك، فإنك توافق على ';
+  String get authByUsingTheApplicationAndLoggingInYouAgreeTo => 'باستخدام التطبيق و تسجيل دخولك، فإنك توافق على ';
 
   @override
   String get authCanNotGetTheContactNumber => 'غير قادر على الحصول على الرقم';
@@ -169,7 +169,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authConfirmationCode => 'رمز التأكيد';
 
   @override
-  String get authContinueWithTheSameData => 'متابعة مع نفس البيانات';
+  String get authContinueWithTheSameData => 'متابعة مع نفس البيأنات';
 
   @override
   String get authCreateANewAccount => 'إنشاء حساب جديد';
@@ -178,7 +178,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authCustomerID => 'هوية المستخدم';
 
   @override
-  String get authDataCompletion => 'إستكمال البيانات';
+  String get authDataCompletion => 'استكمال البيأنات';
 
   @override
   String get authDonatHaveAccountQuestion => 'تسجيل الحساب لأول مرة';
@@ -190,7 +190,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authEditAddress => 'تعديل العنوان';
 
   @override
-  String get authEditMyData => 'تعديل بياناتي';
+  String get authEditMyData => 'تعديل بيأناتي';
 
   @override
   String get authEditProfile => 'تعديل الحساب';
@@ -202,40 +202,40 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authEmailToResetPassword => 'البريد الإلكتروني لإعادة تعيين كلمة السر';
 
   @override
-  String get authEnterAddress => 'ادخل العنوان';
+  String get authEnterAddress => 'أدخل العنوان';
 
   @override
-  String get authEnterCode => 'ادخال الرمز';
+  String get authEnterCode => 'أدخل الرمز';
 
   @override
-  String get authEnterEmail => 'ادخل البريد الالكتروني';
+  String get authEnterEmail => 'أدخل البريد الإلكتروني';
 
   @override
-  String get authEnterName => 'ادخل الإسم';
+  String get authEnterName => 'أدخل الاسم';
 
   @override
-  String get authEnterPassword => 'ادخل كلمة السر';
+  String get authEnterPassword => 'أدخل كلمة السر';
 
   @override
-  String get authEnterPhone => 'ادخل رقم الهاتف';
+  String get authEnterPhone => 'أدخل رقم الهاتف';
 
   @override
-  String get authEnterPhoneNumber => 'ادخل رقم الهاتف';
+  String get authEnterPhoneNumber => 'أدخل رقم الهاتف';
 
   @override
-  String get authEnterTheVerificationCodeSentMomentsAgo => 'ادخل رمز التحقق المرسل قبل لحظات';
+  String get authEnterTheVerificationCodeSentMomentsAgo => 'أدخل رمز التحقق المرسل قبل لحظات';
 
   @override
-  String get authEnterTheVerificationCodeSentMomentsAgoToYourMobileNumber => 'ادخل رمز التحقق المرسل قبل لحظات إلى رقم جوالك: ';
+  String get authEnterTheVerificationCodeSentMomentsAgoToYourMobileNumber => 'أدخل رمز التحقق المرسل قبل لحظات إلى رقم جوالك: ';
 
   @override
-  String get authEnterTheVerificationCodeSentToYourEmail => 'ادخل رمز التأكيد الذي وصل إلى البريد الالكتروني';
+  String get authEnterTheVerificationCodeSentToYourEmail => 'أدخل رمز التأكيد الذي وصل إلى البريد الإلكتروني';
 
   @override
-  String get authEnterTheVerificationCodeSentToYourPhone => 'ادخل رمز التأكيد الذي وصل إلى رقم جوالك';
+  String get authEnterTheVerificationCodeSentToYourPhone => 'أدخل رمز التأكيد الذي وصل إلى رقم جوالك';
 
   @override
-  String get authEnterVerificationCode => 'ادخل رمز التأكيد';
+  String get authEnterVerificationCode => 'أدخل رمز التأكيد';
 
   @override
   String get authExit => 'خروج';
@@ -244,10 +244,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authFemale => 'أنثى';
 
   @override
-  String get authFirebaseSmsExpireMessage => 'الرمز انتهت صلاحيته، الرجاء ادخال الرمز الجديد أو أعد التسجيل';
+  String get authFirebaseSmsExpireMessage => 'الرمز انتهت صلاحيته، الرجاء أدخل الرمز الجديد أو أعد التسجيل';
 
   @override
-  String get authFirstName => 'الإسم الأول:';
+  String get authFirstName => 'الاسم الأول:';
 
   @override
   String get authForgotPassword => 'هل نسيت كلمة السر؟';
@@ -274,7 +274,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authHomeAddress => 'عنوانك';
 
   @override
-  String get authIAccept => 'انا أوافق على';
+  String get authIAccept => 'أنا أوافق على';
 
   @override
   String get authIDNumber => 'رقم البطاقة';
@@ -334,7 +334,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authOrLoginWithAPhoneNumber => 'أو سجل دخولك عبر رقم الهاتف';
 
   @override
-  String get authOrLoginWithAnEmail => 'أو سجل دخولك عبر البريد الالكتروني';
+  String get authOrLoginWithAnEmail => 'أو سجل دخولك عبر البريد الإلكتروني';
 
   @override
   String get authOrRegisterWithAPhone => 'أو قم باستخدام رقم الهاتف';
@@ -343,10 +343,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authOrRegisterWithAnEmail => 'أو قم باستخدام البريد الإلكتروني';
 
   @override
-  String get authOrSendCodeViaEmail => 'أو ارسال الرمز عبر البريد الالكتروني';
+  String get authOrSendCodeViaEmail => 'أو إرسال الرمز عبر البريد الإلكتروني';
 
   @override
-  String get authOrSendCodeViaPhoneNumber => 'أو ارسال الرمز عبر رقم الهاتف';
+  String get authOrSendCodeViaPhoneNumber => 'أو إرسال الرمز عبر رقم الهاتف';
 
   @override
   String get authOtpReSent => 'تم إرسال الرمز بنجاح';
@@ -355,7 +355,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authPIN => 'المعرف الشخصي';
 
   @override
-  String get authPassword => 'كلمه السر';
+  String get authPassword => 'كلمة السر';
 
   @override
   String get authPasswordConfirmation => 'أكد كلمة السر';
@@ -364,7 +364,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authPasswordMustContainAtLeastSixCharacters => 'يجب أن تحتوي كلمة السر على ستة أحرف على الأقل.';
 
   @override
-  String get authPasswordsDoNotMatch => 'كلمة االسر غير متطابقة';
+  String get authPasswordsDoNotMatch => 'كلمة السر غير متطابقة';
 
   @override
   String get authPhoneNumber => 'رقم الهاتف';
@@ -373,31 +373,31 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authPhoneNumberIsRequired => 'رقم الهاتف مطلوب';
 
   @override
-  String get authPleaseAcceptTheTermsAndConditions => 'الرجاء بقبول الشروط والأحكام';
+  String get authPleaseAcceptTheTermsAndConditions => 'الرجاء قبول الشروط والأحكام';
 
   @override
   String get authTermsAndConditions => 'الشروط والأحكام';
 
   @override
-  String get authPleaseAcceptTheTermsOfUse => 'الرجاء الموافقة على شروط الإستخدام';
+  String get authPleaseAcceptTheTermsOfUse => 'الرجاء الموافقة على شروط الاستخدام';
 
   @override
-  String get authPleaseEnterTheCode => 'نرجو ادخال الكود';
+  String get authPleaseEnterTheCode => 'الرجاء إدخال الكود';
 
   @override
-  String get authPleaseEnterTheCodeSentToYourDevice => 'نرجو ادخال الكود المرسل إلى جهازك';
+  String get authPleaseEnterTheCodeSentToYourDevice => 'الرجاء إدخال الكود المرسل إلى جهازك';
 
   @override
-  String get authPleaseFillInSmsCode => 'الرجاء ادخال رمز التأكيد الذي سيصلك عبر الرسائل النصية';
+  String get authPleaseFillInSmsCode => 'الرجاء إدخال رمز التأكيد الذي سيصلك عبر الرسائل النصية';
 
   @override
-  String get authPleaseFillInSmsCodeYouWillReceive => 'الرجاء ادخال رمز التأكيد الذي سيصلك عبر الرسائل النصية';
+  String get authPleaseFillInSmsCodeYouWillReceive => 'الرجاء إدخال رمز التأكيد الذي سيصلك عبر الرسائل النصية';
 
   @override
-  String get authPleaseFillInYourMobilePhoneNumber => 'الرجاء ادخال رقم هاتفك';
+  String get authPleaseFillInYourMobilePhoneNumber => 'الرجاء إدخال رقم هاتفك';
 
   @override
-  String get authPleaseFillInYourNewPassword => 'الرجاء ادخال كلمة السر الجديدة';
+  String get authPleaseFillInYourNewPassword => 'الرجاء إدخال كلمة السر الجديدة';
 
   @override
   String get authPrivacyPolicy => 'سياسة الخصوصية';
@@ -412,16 +412,16 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authRegex => 'نمط غير صحيح';
 
   @override
-  String get authRegister => 'انشاء الحساب';
+  String get authRegister => 'إنشاء حساب';
 
   @override
-  String get authRegisterYourAccount => 'مسجل مسبقاً ؟';
+  String get authRegisterYourAccount => 'مسجل مسبقاًً ؟';
 
   @override
   String get authResendCode => ' إعادة إرسال الرمز ؟';
 
   @override
-  String get authResendTheCodeAgain => 'إعادة ارسال الرمز مجددا';
+  String get authResendTheCodeAgain => 'إعادة إرسال الرمز مجدداًً';
 
   @override
   String get authResetPassword => 'تغيير كلمة السر';
@@ -430,7 +430,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authSecondName => 'الاسم الثاني';
 
   @override
-  String get authSendCode => 'ارسال الرمز';
+  String get authSendCode => 'إرسال الرمز';
 
   @override
   String get authSentToYourDevice => 'المرسل إلى جهازك';
@@ -445,7 +445,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authSignOutOfTheApp => 'تسجيل الخروج من التطبيق';
 
   @override
-  String get authSignUp => 'تسجيل الحساب';
+  String get authSignUp => 'إنشاء حساب';
 
   @override
   String get authWeWillSendAVerificationCodeToThisNumber => 'سوف نرسل رمز التحقق إلى هذا الرقم';
@@ -457,7 +457,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authTheCodeHasBeenSentTo => 'تم إرسال الكود إلى: ';
 
   @override
-  String get authTheNumberYouEnteredIsIncorrectPleaseTryAgain => 'الرقم الذي أدخلته غير صحيح، يرجى المحاولة مرة أخرى';
+  String get authTheNumberYouEnteredIsIncorrectPleaseTryAgain => 'الرقم الذي أدخلته غير صحيح، يرجى المحأولة مرة أخرى';
 
   @override
   String get authTheVerificationCodeWillArriveWithin => 'سوف يصل رمز التحقق في غضون ';
@@ -478,10 +478,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authUploadIdentity => 'البطاقة الشخصية';
 
   @override
-  String get authUploadIdentityInfo => 'ارفق هويتك / البطاقة الشخصية';
+  String get authUploadIdentityInfo => 'أرفق هويتك / البطاقة الشخصية';
 
   @override
-  String get authUserAlreadyExists => 'هذا الرقم موجود مسبقا';
+  String get authUserAlreadyExists => 'هذا الرقم موجود مسبقاً';
 
   @override
   String get authUsername => 'اسم المُستخدم';
@@ -496,22 +496,22 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authVerifyIdentity => 'التحقق';
 
   @override
-  String get authVerifyIdentityInfo => 'تحقق من بياناتك الشخصية';
+  String get authVerifyIdentityInfo => 'تحقق من بيأناتك الشخصية';
 
   @override
   String get authVerifyYourMobileNumber => 'التحقق من رقم هاتفك';
 
   @override
-  String get authVerifyYourQuantityAndClickCheckout => 'تحقق من الكمية الخاصة بك وانقر فوق الخروج';
+  String get authVerifyYourQuantityAndClickCheckout => 'تحقق من الكمية الخاصة بك وأنقر فوق الخروج';
 
   @override
   String get authWaitForTimer => ' الرجاء الإنتظار حتى إنتهاء العداد';
 
   @override
-  String get authWeHaveFoundThatYourPhoneNumberIsRegisteredWithUsWithYourSubscriptionThroughSocialMediaProgramsSoWeAskYouToCompleteYourData => 'لقد وجدنا أن رقم هاتفك مسجل لدينا باشتراكك عن طريق برامج التواصل الاجتماعي، لذا نرجو منك إكمال بياناتك';
+  String get authWeHaveFoundThatYourPhoneNumberIsRegisteredWithUsWithYourSubscriptionThroughSocialMediaProgramsSoWeAskYouToCompleteYourData => 'لقد وجدنا أن رقم هاتفك مسجل لدينا باشتراكك عن طريق برامج التواصل الاجتماعي، لذا الرجاء منك إكمال بيأناتك';
 
   @override
-  String get authWhenYouChooseToCreateANewAccountAllDataForTheOldAccountWillBeDeleted => 'عند إختيارك لإنشاء حساب جديد، سيتم حذف جميع بيانات الحساب القديم';
+  String get authWhenYouChooseToCreateANewAccountAllDataForTheOldAccountWillBeDeleted => 'عند اختيارك لإنشاء حساب جديد، سيتم حذف جميع بيأنات الحساب القديم';
 
   @override
   String get authWrongVerificationCode => 'رمز التأكيد خاطئ';
@@ -532,7 +532,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authYourAddress => 'عنوانك';
 
   @override
-  String get authMyAddresses => 'عناويني';
+  String get authMyAddresses => 'عنأويني';
 
   @override
   String get authYourAddressIsNotSupportedChooseAAddressWithinYourRegion => 'عنوانك غير مدعوم ، اختر عنوانًا داخل منطقتك';
@@ -547,7 +547,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get authYourResetLinkHasBeenSentToYourEmail => 'تم إرسال رابط إعادة تعيين إلى البريد الإلكتروني الخاص بك';
 
   @override
-  String get commonAdd => 'أضافة';
+  String get commonAdd => 'إضافة';
 
   @override
   String get commonAdditionalInformation => 'معلومات إضافية';
@@ -592,7 +592,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonCanceled => 'ألغيت';
 
   @override
-  String get commonCarActivationMessage => 'قريبا، سيتم تفعيل هذا الخيار';
+  String get commonCarActivationMessage => 'قريباً، سيتم تفعيل هذا الخيار';
 
   @override
   String get commonCategories => 'الفئات';
@@ -616,7 +616,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonClear => 'واضح';
 
   @override
-  String get commonClickToViewDetails => 'اضغط لعرض التفاصيل';
+  String get commonClickToViewDetails => 'أضغط لعرض التفاصيل';
 
   @override
   String get commonClosed => 'مغلق';
@@ -625,13 +625,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonColor => 'الألوان';
 
   @override
-  String get commonComingSoon => 'قريبا';
+  String get commonComingSoon => 'قريباً';
 
   @override
   String get commonComments => 'التعليقات';
 
   @override
-  String get commonCommonQuestions => 'ألاسئلة الشائعة';
+  String get commonCommonQuestions => 'الأسئلة الشائعة';
 
   @override
   String get commonCompetitions => 'المسابقات';
@@ -670,7 +670,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonDeclined => 'تم رفضه';
 
   @override
-  String get commonDefaultValue => 'الافتراضي';
+  String get commonDefaultValue => 'الأفتراضي';
 
   @override
   String get commonDelete => 'حذف';
@@ -679,7 +679,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonDeny => 'رفض';
 
   @override
-  String get commonDesc => 'نبذه';
+  String get commonDesc => 'نبذة';
 
   @override
   String get commonDescription => 'وصف';
@@ -691,7 +691,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonDiscount => 'تخفيض';
 
   @override
-  String get commonDoYouWantToUpdate => 'هل تريد تحديث';
+  String get commonDoYouWantToUpdate => 'هل تريد تحديث؟';
 
   @override
   String get commonDonatHaveAnyItemInTheNotificationList => 'لا يوجد أي عنصر في قائمة الإشعارات';
@@ -700,7 +700,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonDone => 'تم';
 
   @override
-  String get commonDoubleTapOnAnAddressToMakeItDefault => 'اضغط مرتين على عنوان لجعله الافتراضي';
+  String get commonDoubleTapOnAnAddressToMakeItDefault => 'أضغط مرتين على عنوان لجعله الأفتراضي';
 
   @override
   String get commonDragToInteract => 'اسحب إلى الشخص';
@@ -772,28 +772,28 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonGallery => 'الاستوديو';
 
   @override
-  String get commonGettingDeliveryFee => 'جار تحديد سعر التوصيل، الرجاء الانتظار..';
+  String get commonGettingDeliveryFee => 'جار تحديد سعر التوصيل، الرجاء الآنتظار..';
 
   @override
-  String get commonGoToYourApplicationSettingsAndEnableThePermission => 'اذهب إلى اعدادات التطبيقات في جهازك وقم بتفعيل الأذونات';
+  String get commonGoToYourApplicationSettingsAndEnableThePermission => 'اذهب إلى إعدادات التطبيقات في جهازك وقم بتفعيل الأذونات';
 
   @override
   String get commonGuest => 'زائر';
 
   @override
-  String get commonHello => 'أهلا بك';
+  String get commonHello => 'أهلاً بك';
 
   @override
   String get commonHelloINeedHelp => 'مرحبا، احتاج مساعدة .. ';
 
   @override
-  String get commonHelloWithFace => 'أهلا بك 👋';
+  String get commonHelloWithFace => 'أهلاً بك 👋';
 
   @override
   String get commonHelpSupport => 'الدعم والمساعدة';
 
   @override
-  String get commonIAccept => 'انا أوافق على';
+  String get commonIAccept => 'أنا أوافق على';
 
   @override
   String get commonInformation => 'معلومات';
@@ -802,7 +802,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonInterest => 'فائدة';
 
   @override
-  String get commonIsOnlineNow => 'متصل الان';
+  String get commonIsOnlineNow => 'متصل الآن';
 
   @override
   String get commonItem => 'الصنف';
@@ -841,10 +841,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonLocationPermission => 'أذونات الوصول إلى الموقع';
 
   @override
-  String get commonLongPressToDeleteItem => 'اضغط مطولا على العنصر لحذفه';
+  String get commonLongPressToDeleteItem => 'أضغط مطولاً على العنصر لحذفه';
 
   @override
-  String get commonLongPressToEditItemSwipeItemToDeleteIt => 'اضغط مع الاستمرار لتحرير العنصر ، واسحب العنصر لحذفه';
+  String get commonLongPressToEditItemSwipeItemToDeleteIt => 'أضغط مع الاستمرار لتحرير العنصر ، واسحب العنصر لحذفه';
 
   @override
   String get commonMapsExplorer => 'مستكشف الخرائط';
@@ -853,10 +853,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonMasterCard => 'بطاقة ائتمان';
 
   @override
-  String get commonMaximum => 'الحد الاقصى';
+  String get commonMaximum => 'الحد الأقصى';
 
   @override
-  String get commonMaximumPrincipal => 'اقصى مبلغ';
+  String get commonMaximumPrincipal => 'أقصى مبلغ';
 
   @override
   String get commonMe => 'أنا';
@@ -865,13 +865,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonMessage => 'رسالة';
 
   @override
-  String get commonMinPriceCannotBeLargerThanMaxPrice => 'لا يمكن أن يكون السعر الادنى اعلى من الاقصى';
+  String get commonMinPriceCannotBeLargerThanMaxPrice => 'لا يمكن أن يكون السعر الأدنى أعلى من الأقصى';
 
   @override
-  String get commonMinimum => 'الحد الادنى';
+  String get commonMinimum => 'الحد الأدنى';
 
   @override
-  String get commonMinimumPrincipal => 'اقل مبلغ';
+  String get commonMinimumPrincipal => 'أقل مبلغ';
 
   @override
   String get commonMore => 'أكثر';
@@ -889,7 +889,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonNet => 'الصافي';
 
   @override
-  String get commonNewArrival => 'وصل حديثا';
+  String get commonNewArrival => 'وصل حديثاً';
 
   @override
   String get commonNewOrderFromClient => 'طلب جديد من العميل';
@@ -904,31 +904,31 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonNoAccountChosen => 'لا يوجد حساب تم اختياره';
 
   @override
-  String get commonNoAddressIsAdded => 'لم يتم اضافة اي عنوان';
+  String get commonNoAddressIsAdded => 'لم يتم إضافة أي عنوان';
 
   @override
-  String get commonNoCategoriesAreAvailable => 'لا يوجد اي فئات';
+  String get commonNoCategoriesAreAvailable => 'لا يوجد أي فئات';
 
   @override
-  String get commonNoDataIsAvailable => 'لا يوجد اي بيانات';
+  String get commonNoDataIsAvailable => 'لا يوجد أي بيأنات';
 
   @override
   String get commonNoFavorites => 'لا توجد منتجات مفضلة';
 
   @override
-  String get commonNoFileIsChosen => 'لم يتم اختيار';
+  String get commonNoFileIsChosen => 'لم يتم الاختيار';
 
   @override
-  String get commonNoFlashDealsAreAvailableNow => 'لا يوجد صفقات سريعة حاليا';
+  String get commonNoFlashDealsAreAvailableNow => 'لا توجد صفقات سريعة حالياً';
 
   @override
-  String get commonNoItemsAreOrdered => 'لا يوجد اصناف مطلوبة';
+  String get commonNoItemsAreOrdered => 'لا يوجد أصناف مطلوبة';
 
   @override
-  String get commonNoMoreHistory => 'لا يوجد اخرى ';
+  String get commonNoMoreHistory => 'لا يوجد أخرى ';
 
   @override
-  String get commonNoPaymentMethodIsAdded => 'لم يتم اضافة طريقة الدفع';
+  String get commonNoPaymentMethodIsAdded => 'لم يتم إضافة طريقة الدفع';
 
   @override
   String get commonNoRechargesYet => 'لا يوجد شحن';
@@ -937,10 +937,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonNoResultFromSearch => 'لا نتائج من البحث';
 
   @override
-  String get commonNoReviewsYetBeTheFirstOneToAddReview => 'لا يوجد اي مراجعة بعد، كن الأول لإضافة مراجعة';
+  String get commonNoReviewsYetBeTheFirstOneToAddReview => 'لا توجد أي مراجعة بعد، كن الأول لإضافة مراجعة';
 
   @override
-  String get commonNoSubCategoriesAreAvailable => 'لا يوجد فئات فرعية';
+  String get commonNoSubCategoriesAreAvailable => 'لا توجد فئات فرعية';
 
   @override
   String get commonNote => 'ملاحظة';
@@ -964,7 +964,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonOptions => 'خيارات';
 
   @override
-  String get commonOr => 'او';
+  String get commonOr => 'أو';
 
   @override
   String get commonOrCheckoutWith => 'أو الخروج مع';
@@ -973,7 +973,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonOrder => 'طلب';
 
   @override
-  String get commonOther => 'اخرى';
+  String get commonOther => 'أخرى';
 
   @override
   String get commonOurDifferentBranches => 'فروعنا المختلفة';
@@ -994,7 +994,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonPermissionIsRequired => 'إذن الوصول متطلب';
 
   @override
-  String get commonPermissionRequired => 'يتطلب اذن الوصول';
+  String get commonPermissionRequired => 'يتطلب إذن الوصول';
 
   @override
   String get commonPhoneBalanceInformation => 'معلومات الرصيد';
@@ -1006,7 +1006,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonPickup => 'احجز';
 
   @override
-  String get commonPleaseEnterTheAddress => 'الرجاء ادخال العنوان';
+  String get commonPleaseEnterTheAddress => 'الرجاء إدخال العنوان';
 
   @override
   String get commonPleaseFillInField => 'الرجاء املاء الحقل';
@@ -1030,25 +1030,25 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonPleaseVerifyYouAreNotARobot => 'الرجاء استكمال عملية التحقق';
 
   @override
-  String get commonPleaseWait => 'يرجى الانتظار ...';
+  String get commonPleaseWait => 'يرجى الآنتظار ...';
 
   @override
   String get commonPrice => 'السعر';
 
   @override
-  String get commonPriceHighToLow => 'سعر اعلى لأدنى';
+  String get commonPriceHighToLow => 'سعر أعلى لأدنى';
 
   @override
-  String get commonPriceLowToHigh => 'سعر ادنى لأعلى';
+  String get commonPriceLowToHigh => 'سعر أدنى لأعلى';
 
   @override
   String get commonPriceRange => 'السعر';
 
   @override
-  String get commonPrincipalAmount => 'المبلغ الاساسي';
+  String get commonPrincipalAmount => 'المبلغ الأساسي';
 
   @override
-  String get commonProceed => 'الإستمرار';
+  String get commonProceed => 'الاستمرار';
 
   @override
   String get commonPromotionalCodes => 'الرموز الترويجية';
@@ -1081,10 +1081,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonReports => 'التقارير';
 
   @override
-  String get commonRequestConfirm => 'هل أنت متأكد من أنك تريد الإستمرار';
+  String get commonRequestConfirm => 'هل أنت متأكد من أنك تريد الاستمرار';
 
   @override
-  String get commonResendCode => 'اعادة الارسال';
+  String get commonResendCode => 'إعادة الإرسال';
 
   @override
   String get commonReset => 'إعادة تعيين';
@@ -1138,7 +1138,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonSelectOptionsToAddThemOnTheProduct => 'حدد خيارات لإضافتها على المنتج';
 
   @override
-  String get commonSelectPickupDelivery => 'اختر اما التقاط أو توصيل';
+  String get commonSelectPickupDelivery => 'اختر إما التقاط أو توصيل';
 
   @override
   String get commonSelectYourPreferredLanguages => 'حدد لغاتك المفضلة';
@@ -1201,10 +1201,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonSwipeItemToDeleteIt => 'اسحب العنصر لحذفه';
 
   @override
-  String get commonSwipeItemToViewMoreDetails => 'اسحب العنصر لعرض تفاصيل اكثر';
+  String get commonSwipeItemToViewMoreDetails => 'اسحب العنصر لعرض تفاصيل أكثر';
 
   @override
-  String get commonTapToViewMoreDetails => 'انقر لإظهار التفاصيل';
+  String get commonTapToViewMoreDetails => 'أنقر لإظهار التفاصيل';
 
   @override
   String get commonTax => 'ضريبة';
@@ -1216,7 +1216,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonTermsAndConditions => 'الشروط والأحكام';
 
   @override
-  String get commonTermsOfUse => 'شروط الإستخدام';
+  String get commonTermsOfUse => 'شروط الاستخدام';
 
   @override
   String get commonThePaymentServiceYouSelectIsNotAvailable => 'خدمة الدفع الذي اخترتها غير مفعلة بعد';
@@ -1234,13 +1234,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonTitle => 'العنوان';
 
   @override
-  String get commonToWhere => 'إلى اين';
+  String get commonToWhere => 'إلى أين';
 
   @override
   String get commonTodayDeals => 'صفقات اليوم';
 
   @override
-  String get commonTopRated => 'الاعلى تقييم';
+  String get commonTopRated => 'الأعلى تقييم';
 
   @override
   String get commonTotal => 'المجموع';
@@ -1261,7 +1261,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonTrendingThisWeek => 'تتجه هذا الأسبوع';
 
   @override
-  String get commonTryAgain => 'اعادة المحاولة';
+  String get commonTryAgain => 'إعادة المحأولة';
 
   @override
   String get commonTypeYourMessageHere => 'اكتب رسالتك هنا';
@@ -1309,13 +1309,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get commonWeWishYouANiceDay => 'نتمنى لك يوماً سعيداً';
 
   @override
-  String get commonWelcome => 'أهلا بك';
+  String get commonWelcome => 'أهلاً بك';
 
   @override
   String get commonWelcomeBack => 'مرحباً بعودتك';
 
   @override
-  String get commonWelcomeBackWithFace => 'أهلا بعودتك 👋';
+  String get commonWelcomeBackWithFace => 'أهلاً بعودتك 👋';
 
   @override
   String get commonWelcomeWithFace => 'مرحبا بك 👋';
@@ -1348,7 +1348,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get dtDay => 'اليوم';
 
   @override
-  String get dtExpiryDate => 'تاريخ الانتهاء';
+  String get dtExpiryDate => 'تاريخ الآنتهاء';
 
   @override
   String get dtFriday => 'الجمعة';
@@ -1372,7 +1372,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get dtPM => 'مساء';
 
   @override
-  String get dtReleaseDate => 'تاريخ الاصدار';
+  String get dtReleaseDate => 'تاريخ الإصدار';
 
   @override
   String get dtSaturday => 'السبت';
@@ -1402,10 +1402,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get dtWednesday => 'الأربعاء';
 
   @override
-  String get dtWeek => 'اسبوع';
+  String get dtWeek => 'أسبوع';
 
   @override
-  String get dtWeekly => 'اسبوعي';
+  String get dtWeekly => 'أسبوعي';
 
   @override
   String get dtYear => 'السنة';
@@ -1414,52 +1414,52 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get dtYearly => 'سنوي';
 
   @override
-  String get errorAnErrorOccurredPleaseTryAgain => 'حدث خطأ ما، الرجاء المحاولة مجددا';
+  String get errorAnErrorOccurredPleaseTryAgain => 'حدث خطأ ما، الرجاء المحأولة مجدداً';
 
   @override
-  String get errorBlockedException => 'عذرا ! لقد تم حظر حسابك. يرجى التواصل مع المسؤول لإزالة الحظر';
+  String get errorBlockedException => 'عذراً ! لقد تم حظر حسابك. يرجى التواصل مع المسؤول لإزالة الحظر';
 
   @override
   String get errorButYouCanClickTheButtonBelowToGoBackToTheMainPage => 'ولكن يمكنك النقر فوق الزر أدناه للعودة إلى الصفحة الرئيسية';
 
   @override
-  String get errorCacheException => 'لاتوجد بيانات حتى الان حاول الإتصال بالإنترنت';
+  String get errorCacheException => 'لاتوجد بيأنات حتى الآن حأول الإتصال بالإنترنت';
 
   @override
   String get errorCheckYourInternetConnection => 'تأكد من اتصالك بالإنترنت';
 
   @override
-  String get errorCheckYourInternetConnectionOrTryAgain => 'تأكد من اتصالك بالإنترنت أو حاول لاحقاً';
+  String get errorCheckYourInternetConnectionOrTryAgain => 'تأكد من اتصالك بالإنترنت أو حأول لاحقاً';
 
   @override
   String get errorConflictException => 'تعذر إكمال الطلب بسبب وجود تعارض';
 
   @override
-  String get errorConnectionException => 'لايوجد اتصال بالانترنت!';
+  String get errorConnectionException => 'لأيوجد اتصال بالإنترنت!';
 
   @override
-  String get errorEmptyException => 'لاتوجد أي بيانات في الوقت الحالي!';
+  String get errorEmptyException => 'لاتوجد أي بيأنات في الوقت الحالي!';
 
   @override
-  String get errorEmptyFailure => 'لا توجد بيانات حالياً';
+  String get errorEmptyFailure => 'لا توجد بيأنات حالياًً';
 
   @override
   String get errorExpireException => 'انتهت صلاحية الكود';
 
   @override
-  String get errorInvalidException => 'تأكد من صحة  البيانات المدخلة';
+  String get errorInvalidException => 'تأكد من صحة  البيأنات المدخلة';
 
   @override
-  String get errorInvalidFailure => 'هناك خطأ في البيانات المدخلة';
+  String get errorInvalidFailure => 'هناك خطأ في البيأنات المدخلة';
 
   @override
-  String get errorNotFoundException => 'لايوجد حساب بهذه البيانات!';
+  String get errorNotFoundException => 'لأيوجد حساب بهذه البيأنات!';
 
   @override
-  String get errorNotFoundFailure => 'لاتوجد أي بيانات في الوقت الحالي!';
+  String get errorNotFoundFailure => 'لاتوجد أي بيأنات في الوقت الحالي!';
 
   @override
-  String get errorOccurredTryAgainLater => 'حدث خطأ ما، الرجاء المحاولة لاحقاً';
+  String get errorOccurredTryAgainLater => 'حدث خطأ ما، الرجاء المحأولة لاحقاً';
 
   @override
   String get errorOhOhYouAreLost => 'أوه أوه! أنت ضائع';
@@ -1468,10 +1468,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get errorPasswordException => 'كلمة السر غير صحيحة';
 
   @override
-  String get errorReceiveFailure => 'حدث خطأ اثناء استقبال البيانات';
+  String get errorReceiveFailure => 'حدث خطأ اثناء استقبال البيأنات';
 
   @override
-  String get errorServerException => 'عذراً لم نتمكن من الاتصال بالخادم';
+  String get errorServerException => 'عذراًً لم نتمكن من الاتصال بالخادم';
 
   @override
   String get errorThePageYouAreLookingForDoesNotExistHowYouGotHereIsQuiteAPuzzle => 'الصفحة التي تبحث عنها غير موجودة. كيف وصلت إلى هنا هو لغز محير 🤭';
@@ -1492,22 +1492,22 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get errorThisEmailAccountExists => 'حساب البريد الإلكتروني هذا موجود';
 
   @override
-  String get errorUnauthenticatedException => 'عذرا ! أنت غير مخول لهذه العملية قم بتسجيل الدخول';
+  String get errorUnauthenticatedException => 'عذراً ! أنت غير مخول لهذه العملية قم بتسجيل الدخول';
 
   @override
-  String get errorUnauthenticatedFailure => 'عذرا ! قم بتسجيل الدخول مرة أخرى والمحاولة';
+  String get errorUnauthenticatedFailure => 'عذراً ! قم بتسجيل الدخول مرة أخرى والمحأولة';
 
   @override
-  String get errorUnexpectedException => 'عذراً، حدث خطأ غير متوقع يرجى المحاولة لاحقاًً';
+  String get errorUnexpectedException => 'عذراًً، حدث خطأ غير متوقع يرجى المحأولة لاحقاًً';
 
   @override
-  String get errorUniqueFailure => ' حاول تغيير رقم الهاتف n /قد يكون هذا الحساب موجود مسبقاً ';
+  String get errorUniqueFailure => ' حأول تغيير رقم الهاتف n/ قد يكون هذا الحساب موجود مسبقاًً ';
 
   @override
-  String get errorUserExistsException => 'قد يكون هذا الحساب موجود مسبقاً! حاول تغيير رقم الهاتف أو الايميل';
+  String get errorUserExistsException => 'قد يكون هذا الحساب موجود مسبقاًً! حأول تغيير رقم الهاتف أو الأيميل';
 
   @override
-  String get errorUserExistsFailure => 'لايوجد حساب بهذه البيانات! تأكد من البيانات.';
+  String get errorUserExistsFailure => 'لأيوجد حساب بهذه البيأنات! تأكد من البيأنات.';
 
   @override
   String get errorVerifyEmailSettings => 'خطأ! تحقق من إعدادات البريد الإلكتروني';
@@ -1525,7 +1525,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get firebaseCredentialMismatch => 'يتوافق الرمز المميز المخصص مع مشروع Firebase مختلف.';
 
   @override
-  String get firebaseTokenExpired => 'لم تعد بيانات اعتماد المستخدم صالحة. يجب على المستخدم تسجيل الدخول مرة أخرى.';
+  String get firebaseTokenExpired => 'لم تعد بيأنات اعتماد المستخدم صالحة. يجب على المستخدم تسجيل الدخول مرة أخرى.';
 
   @override
   String get firebaseUserDisabled => 'تم تعطيل حساب المستخدم من قبل المسؤول.';
@@ -1537,7 +1537,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get firebaseInvalidRefreshToken => 'تم توفير رمز تحديث غير صالح.';
 
   @override
-  String get firebaseInvalidGrantType => 'نوع المنحة المحدد غير صالح.';
+  String get firebaseInvalidGrantType => 'نوع المنحة المحدد غير صالحة';
 
   @override
   String get firebaseMissingRefreshToken => 'لم يتم توفير رمز التحديث.';
@@ -1549,7 +1549,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get firebaseOperationNotAllowed => 'تم تعطيل تسجيل الدخول بكلمة السر لهذا المشروع.';
 
   @override
-  String get firebaseTooManyAttemptsTryLater => 'لقد حظرنا جميع الطلبات الواردة من هذا الجهاز بسبب نشاط غير عادي. حاول مرة أخرى في وقت لاحق.';
+  String get firebaseTooManyAttemptsTryLater => 'لقد حظرنا جميع الطلبات الواردة من هذا الجهاز بسبب نشاط غير عادي. حأول مرة أخرى في وقت لاحق.';
 
   @override
   String get firebaseEmailNotFound => 'لا يوجد سجل مستخدم مطابق لهذا المعرف. ربما تم حذف المستخدم.';
@@ -1558,7 +1558,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get firebaseInvalidPassword => 'كلمة السر غير صالحة أو ليس لدى المستخدم كلمة مرور.';
 
   @override
-  String get firebaseInvalidIDPResponse => 'بيانات اعتماد المصادقة المقدمة غير صحيحة أو منتهية الصلاحية.';
+  String get firebaseInvalidIDPResponse => 'بيأنات اعتماد المصادقة المقدمة غير صحيحة أو منتهية الصلاحية.';
 
   @override
   String get firebaseExpiredOOBCode => 'انتهت صلاحية رمز العمل.';
@@ -1567,28 +1567,28 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get firebaseInvalidOOBCode => 'رمز العمل غير صالح. يمكن أن يحدث هذا إذا كان الرمز غير صحيح أو منتهي الصلاحية أو تم استخدامه بالفعل.';
 
   @override
-  String get firebaseInvalidIDToken => 'لم تعد بيانات اعتماد المستخدم صالحة. يجب على المستخدم تسجيل الدخول مرة أخرى.';
+  String get firebaseInvalidIDToken => 'لم تعد بيأنات اعتماد المستخدم صالحة. يجب على المستخدم تسجيل الدخول مرة أخرى.';
 
   @override
   String get firebaseWeakPassword => 'يجب أن تتكون كلمة السر من 6 أحرف أو أكثر.';
 
   @override
-  String get firebaseCredentialTooOldLoginAgain => 'لم تعد بيانات اعتماد المستخدم صالحة. يجب على المستخدم تسجيل الدخول مرة أخرى.';
+  String get firebaseCredentialTooOldLoginAgain => 'لم تعد بيأنات اعتماد المستخدم صالحة. يجب على المستخدم تسجيل الدخول مرة أخرى.';
 
   @override
-  String get firebaseFederatedUserIDAlreadyLinked => 'بيانات الاعتماد هذه مرتبطة بالفعل بحساب مستخدم مختلف.';
+  String get firebaseFederatedUserIDAlreadyLinked => 'بيأنات الاعتماد هذه مرتبطة بالفعل بحساب مستخدم مختلف.';
 
   @override
   String get firebaseInvalidEmail => 'عنوان البريد الإلكتروني منسق بشكل سيئ.';
 
   @override
-  String get firebaseTooManyRequests => 'لقد حظرنا جميع الطلبات الواردة من هذا الجهاز بسبب نشاط غير عادي. حاول مرة أخرى في وقت لاحق.';
+  String get firebaseTooManyRequests => 'لقد حظرنا جميع الطلبات الواردة من هذا الجهاز بسبب نشاط غير عادي. حأول مرة أخرى في وقت لاحق.';
 
   @override
   String get feedbackAddedSuccessfully => 'تمت الإضافة بنجاح';
 
   @override
-  String get feedbackAddressesRefreshedSuccessfully => 'تم تحديث العناوين بنجاح';
+  String get feedbackAddressesRefreshedSuccessfully => 'تم تحديث العنأوين بنجاح';
 
   @override
   String get feedbackApproved => 'تم الموافقة عليه';
@@ -1603,7 +1603,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get feedbackDeliveryAddressRemovedSuccessfully => 'تمت إزالة عنوان التسليم بنجاح';
 
   @override
-  String get feedbackFaqsRefreshedSuccessfully => 'تم تحديث الاسئلة بنجاح';
+  String get feedbackFaqsRefreshedSuccessfully => 'تم تحديث الأسئلة بنجاح';
 
   @override
   String get feedbackFavoritesRefreshedSuccessfully => 'تم تحديث المفضلة بنجاح';
@@ -1636,7 +1636,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get feedbackProductRefreshedSuccessfully => 'تم تحديث المنتج بنجاح';
 
   @override
-  String get feedbackProfileSettingsUpdatedSuccessfully => 'تم تحديث إعدادات ملف الشخصي بنجاح';
+  String get feedbackProfileSettingsUpdatedSuccessfully => 'تم تحديث إعدادات الملف الشخصي بنجاح';
 
   @override
   String get feedbackRequestHasBeenSentSuccessfully => 'تم إرسال الطلب بنجاح';
@@ -1663,7 +1663,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get feedbackTransferredSuccessfully => 'تم تحويل المبلغ بنجاح';
 
   @override
-  String get feedbackYourAccountIsCreated => 'تم انشاء حسابك';
+  String get feedbackYourAccountIsCreated => 'تم إنشاء حسابك';
 
   @override
   String get feedbackYourOrderHasBeenSuccessfullySubmitted => 'تم تقديم طلبك بنجاح';
@@ -1678,10 +1678,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get placeDistrict => 'المنطقة';
 
   @override
-  String get placeFromWhere => 'من اين';
+  String get placeFromWhere => 'من أين';
 
   @override
-  String get shopAddCouponCode => 'ادخل رمز الكوبون';
+  String get shopAddCouponCode => 'أدخل رمز الكوبون';
 
   @override
   String get shopAddDeliveryAddress => 'أضف عنوان التسليم';
@@ -1693,13 +1693,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopAddNoteToOrder => 'اضف ملاحظة للطلب';
 
   @override
-  String get shopAddOrderToFavorites => 'اضافة الطلب للمفضلة';
+  String get shopAddOrderToFavorites => 'إضافة الطلب للمفضلة';
 
   @override
   String get shopAddToCart => 'اضف إلى السلة';
 
   @override
-  String get shopAddedToCart => 'تمت الاضافة إلى السلة';
+  String get shopAddedToCart => 'تمت الإضافة إلى السلة';
 
   @override
   String get shopAllBrands => 'جميع الماركات';
@@ -1720,13 +1720,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopAllProducts => 'جميع المنتجات ';
 
   @override
-  String get shopProductRating => 'تقيم المنتج';
+  String get shopProductRating => 'تقييم المنتج';
 
   @override
   String get shopAllStatus => 'كل الحالات';
 
   @override
-  String get shopAmountCannotBeEmpty => 'لا يمكن أن يكون المبلغ فارغا';
+  String get shopAmountCannotBeEmpty => 'لا يمكن أن يكون المبلغ فارغاً';
 
   @override
   String get shopAmountIsRequired => 'المبلغ متطلب';
@@ -1735,10 +1735,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopApplyCoupon => 'تنفيذ القسيمة';
 
   @override
-  String get shopAreSureYouWantToProceed => 'هل أنت متأكد من استكمال الطلب';
+  String get shopAreSureYouWantToProceed => 'هل أنت متأكد من استكمال الطلب؟';
 
   @override
-  String get shopAreYouSureToRemoveThisItem => 'هل أنت متأكد من حذف هذا الصنف';
+  String get shopAreYouSureToRemoveThisItem => 'هل أنت متأكد من حذف هذا الصنف؟';
 
   @override
   String get shopAreYouSureWithYourOrder => 'هل أنت متأكد من طلبك؟';
@@ -1756,19 +1756,19 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopBrands => 'الماركات';
 
   @override
-  String get shopBuyNow => 'الشراء الان';
+  String get shopBuyNow => 'الشراء الآن';
 
   @override
   String get shopCVC => 'رمز التحقق من البطاقة';
 
   @override
-  String get shopCancelOrder => 'الغاء الطلب';
+  String get shopCancelOrder => 'إلغاء الطلب';
 
   @override
-  String get shopCannotOrderItemsLessThan => 'لا يمكن طلب اصناف اقل من';
+  String get shopCannotOrderItemsLessThan => 'لا يمكن طلب أصناف أقل من';
 
   @override
-  String get shopCannotOrderItemsMoreThan => 'لا يمكن طلب اصناف اكثر من';
+  String get shopCannotOrderItemsMoreThan => 'لا يمكن طلب أصناف أكثر من';
 
   @override
   String get shopCantCalculateDeliveryFee => 'غير قادر على حساب رسوم التوصيل';
@@ -1810,34 +1810,34 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopChooseProduct => 'اختر المنتج';
 
   @override
-  String get shopChooseTheMarketsBranch => 'إختيار فرع المتاجر';
+  String get shopChooseTheMarketsBranch => 'اختيار فرع المتاجر';
 
   @override
-  String get shopClickOnTheProductToGetMoreDetailsAboutIt => 'انقر على المنتج للحصول على مزيد من التفاصيل حوله';
+  String get shopClickOnTheProductToGetMoreDetailsAboutIt => 'أنقر على المنتج للحصول على مزيد من التفاصيل حوله';
 
   @override
-  String get shopClickOnTheStarsBelowToLeaveComments => 'انقر على النجوم أدناه لترك التعليقات';
+  String get shopClickOnTheStarsBelowToLeaveComments => 'أنقر على النجوم أدناه لترك التعليقات';
 
   @override
-  String get shopClickToConfirmYourAddressAndPayOrLongPress => 'انقر لتأكيد عنوانك والدفع أو الضغط لفترة طويلة لتحرير عنوانك';
+  String get shopClickToConfirmYourAddressAndPayOrLongPress => 'أنقر لتأكيد عنوانك والدفع أو الضغط لفترة طويلة لتحرير عنوانك';
 
   @override
-  String get shopClickToPayCashOnDelivery => 'انقر لدفع نقدا عند التسليم';
+  String get shopClickToPayCashOnDelivery => 'أنقر لدفع نقداًً عند التسليم';
 
   @override
-  String get shopClickToPayOnPickup => 'انقر للدفع عند الاستلام';
+  String get shopClickToPayOnPickup => 'أنقر للدفع عند الاستلام';
 
   @override
-  String get shopClickToPayWithRazorpayMethod => 'اضغط للدفع عبر رازور باي';
+  String get shopClickToPayWithRazorpayMethod => 'أضغط للدفع عبر رازور بأي';
 
   @override
-  String get shopClickToPayWithYourMasterCard => 'انقر للدفع باستخدام بطاقةماستر كارد ';
+  String get shopClickToPayWithYourMasterCard => 'أنقر للدفع باستخدام بطاقةماستر كارد ';
 
   @override
-  String get shopClickToPayWithYourPaypalAccount => 'انقر للدفع باستخدام حساب باي بال الخاص بك';
+  String get shopClickToPayWithYourPaypalAccount => 'أنقر للدفع باستخدام حساب بأي بال الخاص بك';
 
   @override
-  String get shopClickToPayWithYourVisaCard => 'انقر للدفع باستخدام بطاقة فيزا كارد الخاصة بك';
+  String get shopClickToPayWithYourVisaCard => 'أنقر للدفع باستخدام بطاقة فيزا كارد الخاصة بك';
 
   @override
   String get shopClubPoint => 'نقاط الشراء';
@@ -1867,7 +1867,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopCustomOrder => 'طلب مخصص';
 
   @override
-  String get shopDefaultCreditCard => 'بطاقة الائتمان الافتراضية';
+  String get shopDefaultCreditCard => 'بطاقة الائتمان الأفتراضية';
 
   @override
   String get shopDeliverTo => 'توصيل إلى';
@@ -1888,7 +1888,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopDeliveryAddressOutsideTheDeliveryRangeOfThisMarkets => 'عنوان التسليم خارج نطاق التسليم لهذه الأسواق.';
 
   @override
-  String get shopDeliveryAddresses => 'عناوين التسليم';
+  String get shopDeliveryAddresses => 'عنأوين التسليم';
 
   @override
   String get shopDeliveryFee => 'رسوم التوصيل';
@@ -1924,13 +1924,13 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopEmptyCart => 'السلة فارغة';
 
   @override
-  String get shopEnterAmount => 'ادخل المبلغ';
+  String get shopEnterAmount => 'أدخل المبلغ';
 
   @override
-  String get shopEnterCouponCode => 'ادخل رمز القسيمة';
+  String get shopEnterCouponCode => 'أدخل رمز القسيمة';
 
   @override
-  String get shopEnterTheCodeSent => 'ادخل الرمز';
+  String get shopEnterTheCodeSent => 'أدخل الرمز';
 
   @override
   String get shopExpectedAmount => 'المبلغ المتوقع';
@@ -1948,10 +1948,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopFeaturedProducts => 'منتجات مميزة';
 
   @override
-  String get shopFetchingPaypalUrl => 'جار الاتصال مع رابط باي بال';
+  String get shopFetchingPaypalUrl => 'جار الاتصال مع رابط بأي بال';
 
   @override
-  String get shopGettingCoupon => 'جار طلب الكوبون، الرجاء الانتظار..';
+  String get shopGettingCoupon => 'جار طلب الكوبون، الرجاء الآنتظار..';
 
   @override
   String get shopGross => 'المبلغ كامل';
@@ -1960,7 +1960,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopHaveCouponCode => 'هل تملك كوبون؟';
 
   @override
-  String get shopHowWouldYouRateThisMarket => 'كيف تقيم هذا المتجر؟';
+  String get shopHowWouldYouRateThisMarket => 'كيف تقييم هذا المتجر؟';
 
   @override
   String get shopInYourCart => 'في السلة';
@@ -1972,19 +1972,19 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopKeepYourOldMealsOfThisMarket => 'احتفظ بوجباتك القديمة في هذا المتجر';
 
   @override
-  String get shopLoadingMoreBrands => 'تحميل ماركات اكثر';
+  String get shopLoadingMoreBrands => 'تحميل ماركات أكثر';
 
   @override
-  String get shopLoadingMoreOrders => 'تحميل طلبات اخرى';
+  String get shopLoadingMoreOrders => 'تحميل طلبات أخرى';
 
   @override
-  String get shopLoadingMoreProducts => 'تحميل منتجات اخرى';
+  String get shopLoadingMoreProducts => 'تحميل منتجات أخرى';
 
   @override
   String get shopLoadingMoreReviews => 'تحميل مراجعات أخرى';
 
   @override
-  String get shopLoadingMoreShops => 'تحميل متاجر اخرى';
+  String get shopLoadingMoreShops => 'تحميل متاجر أخرى';
 
   @override
   String get shopMarket => 'المتجر';
@@ -2017,22 +2017,22 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopNoFeaturedProductsFromThisSeller => 'لا يوجد منتجات مميزة لهذا البائع';
 
   @override
-  String get shopNoMoreBrands => 'لا يوجد ماركات اخرى';
+  String get shopNoMoreBrands => 'لا يوجد ماركات أخرى';
 
   @override
-  String get shopNoMoreOrders => 'لا يوجد طلبات اخرى';
+  String get shopNoMoreOrders => 'لا يوجد طلبات أخرى';
 
   @override
-  String get shopNoMoreProducts => 'لا يوجد منتجات اخرى';
+  String get shopNoMoreProducts => 'لا يوجد منتجات أخرى';
 
   @override
   String get shopNoMoreReviews => 'لا يوجد مراجعات أخرى';
 
   @override
-  String get shopNoMoreShops => 'لا يوجد متاجر اخرى';
+  String get shopNoMoreShops => 'لا يوجد متاجر أخرى';
 
   @override
-  String get shopNoNewArrivals => 'لا يوجد منتجات وصلت حديثا';
+  String get shopNoNewArrivals => 'لا يوجد منتجات وصلت حديثاً';
 
   @override
   String get shopNoProductsAreAvailable => 'لا يوجد منتجات';
@@ -2095,7 +2095,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopOrderStatusChanged => 'تغيرت حالة الطلب';
 
   @override
-  String get shopOrderThisOrderIdHasBeenCanceled => 'تم الغاء الطلب';
+  String get shopOrderThisOrderIdHasBeenCanceled => 'تم إلغاء الطلب';
 
   @override
   String get shopOrderedByNearbyFirst => 'تم طلبه مسبقًا أولاً';
@@ -2125,16 +2125,16 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopParcelDeliveryService => 'خدمة توصيل الطرود';
 
   @override
-  String get shopPayWithPaypal => 'الدفع عبر باي بال';
+  String get shopPayWithPaypal => 'الدفع عبر بأي بال';
 
   @override
-  String get shopPayWithRazorPay => 'ادفع عبر رازور باي';
+  String get shopPayWithRazorPay => 'ادفع عبر رازور بأي';
 
   @override
-  String get shopPayWithStripe => 'ادفع عبر سترايب';
+  String get shopPayWithStripe => 'ادفع عبر سترأيب';
 
   @override
-  String get shopPaymentCancelled => 'تم إالغاء عملية الدفع';
+  String get shopPaymentCancelled => 'تم إإلغاء عملية الدفع';
 
   @override
   String get shopPaymentMethod => 'طريقة الدفع';
@@ -2152,10 +2152,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopPaymentsSettings => 'إعدادات المدفوعات';
 
   @override
-  String get shopPaypal => 'باي بال';
+  String get shopPaypal => 'بأي بال';
 
   @override
-  String get shopPending => 'قيد الانتظار';
+  String get shopPending => 'قيد الآنتظار';
 
   @override
   String get shopPickupYourProductFromTheMarket => 'التقاط المنتج الخاص بك من المتجر';
@@ -2164,7 +2164,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopPillPay => 'سداد';
 
   @override
-  String get shopPleaseAddOrdersWithPriceOrMoreToPerformThePurchase => 'لتنفيذ الطلب، الرجاء اضافة طلب على الاقل سعره';
+  String get shopPleaseAddOrdersWithPriceOrMoreToPerformThePurchase => 'لتنفيذ الطلب، الرجاء إضافة طلب على الأقل سعره';
 
   @override
   String get shopPleaseChooseOneOptionToPay => 'الرجاء اختيار أحد الخيارات للدفع';
@@ -2176,10 +2176,10 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopPreparing => 'تجهيز الطلب';
 
   @override
-  String get shopProceedToPayment => 'الانتقال إلى الدفع';
+  String get shopProceedToPayment => 'الآنتقال إلى الدفع';
 
   @override
-  String get shopProceedToShipping => 'الانتقال إلى الشحن';
+  String get shopProceedToShipping => 'الآنتقال إلى الشحن';
 
   @override
   String get shopProductCategories => 'فئات المنتجات';
@@ -2188,7 +2188,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopProductName => 'اسم المنتج';
 
   @override
-  String get shopProductPricesDoNotMatchPleaseUpdateTheData => 'أسعار المنتجات غير متطابقة ، يرجى تحديث البيانات';
+  String get shopProductPricesDoNotMatchPleaseUpdateTheData => 'أسعار المنتجات غير متطابقة ، يرجى تحديث البيأنات';
 
   @override
   String get shopProducts => 'المنتجات';
@@ -2242,7 +2242,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopResetCart => 'إعادة تعيين السلة؟';
 
   @override
-  String get shopResetCartAndCancelOrderFromPreviousMarket => 'اعادة تعيين السلة والغاء الطلب السابق';
+  String get shopResetCartAndCancelOrderFromPreviousMarket => 'إعادة تعيين السلة وإلغاء الطلب السابق';
 
   @override
   String get shopResetYourCartAndOrderMealsFormThisMarket => 'إعادة تعيين عربة التسوق وطلب وجبات الطعام من هذا المتجر';
@@ -2263,7 +2263,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopSearchProductsOfShop => 'بحث منتجات متجر';
 
   @override
-  String get shopSearchProductsTheMarket => 'بحث عن الاصناف';
+  String get shopSearchProductsTheMarket => 'بحث عن الأصناف';
 
   @override
   String get shopSeller => 'البائع';
@@ -2329,7 +2329,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopThisMarketNotSupportDeliveryMethod => 'هذا المتجر لا يدعم طريقة التسليم.';
 
   @override
-  String get shopThisOrderIsAddedToFavorite => 'تم اضافة الطلب للمفضلة';
+  String get shopThisOrderIsAddedToFavorite => 'تم إضافة الطلب للمفضلة';
 
   @override
   String get shopThisOrderWillBeRemovedFromFavorites => 'سيتم ازالة الطلب من المفضلة';
@@ -2338,7 +2338,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopThisProductWasAddedToCart => 'تمت إضافة هذا المنتج إلى سلة التسوق';
 
   @override
-  String get shopThisProductWasAddedToFavorite => 'تم اضافة المنتج إلى المفضلة';
+  String get shopThisProductWasAddedToFavorite => 'تم إضافة المنتج إلى المفضلة';
 
   @override
   String get shopThisProductWasRemovedFromFavorites => 'تم ازالة المنتج من المفضلة';
@@ -2353,7 +2353,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopTopSellers => 'افضل البائعين';
 
   @override
-  String get shopTopSellingProducts => 'اعلى المبيعات';
+  String get shopTopSellingProducts => 'أعلى المبيعات';
 
   @override
   String get shopTopSellingProductsFromThisSeller => 'أفضل المبيعات لهذا التاجر';
@@ -2389,7 +2389,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
   String get shopYouCanDiscoverMarkets => 'يمكنك اكتشاف الأسواق والمتاجر من حولك واختيار أفضل وجبة لك بعد بضع دقائق نجهزها ونقدمها لك';
 
   @override
-  String get shopYouCanNotCancelThisOrderAfterPreparingIt => 'لا يمكنك الغاء الطلب بعد تجهيزه';
+  String get shopYouCanNotCancelThisOrderAfterPreparingIt => 'لا يمكنك إلغاء الطلب بعد تجهيزه';
 
   @override
   String get shopYouCanUseFiltersWhileSearchingForProducts => 'يإمكانك استخدام الفلتر عند البحث على المنتجات';
@@ -2419,7 +2419,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
 
   @override
   String validBlank(String attribute) {
-    return 'لا يمكن أن يكون المحتوى $attribute فارغاً';
+    return 'لا يمكن أن يكون المحتوى $attribute فارغاًً';
   }
 
   @override
@@ -2429,12 +2429,12 @@ class SuperLocalizationsAr extends SuperLocalizations {
 
   @override
   String validEmpty(String attribute) {
-    return 'لا يمكن أن يكون المحتوى $attribute فارغاً';
+    return 'لا يمكن أن يكون المحتوى $attribute فارغاًً';
   }
 
   @override
   String validEqualTo(String attribute, Object count) {
-    return 'يجب أن يساوي طول $attribute $count';
+    return 'يجب أن يسأوي طول $attribute $count';
   }
 
   @override
@@ -2454,7 +2454,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
 
   @override
   String validGreaterThanOrEqualTo(String attribute, Object count) {
-    return 'يجب أن يكون عدد $attribute أكبر أو يساوي $count';
+    return 'يجب أن يكون عدد $attribute أكبر أو يسأوي $count';
   }
 
   @override
@@ -2474,7 +2474,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
 
   @override
   String validLessThanOrEqualTo(String attribute, Object count) {
-    return 'يجب أن يكون عدد $attribute أصغر أو  يساوي $count';
+    return 'يجب أن يكون عدد $attribute أصغر أو  يسأوي $count';
   }
 
   @override
@@ -2528,7 +2528,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
 
   @override
   String validPresent(String attribute) {
-    return 'يجب ترك حقل $attribute فارغاً';
+    return 'يجب ترك حقل $attribute فارغاًً';
   }
 
   @override
@@ -2547,7 +2547,7 @@ class SuperLocalizationsAr extends SuperLocalizations {
 
   @override
   String validTaken(String attribute) {
-    return 'حقل $attribute محجوز مسبقاً';
+    return 'حقل $attribute محجوز مسبقاًً';
   }
 
   @override
